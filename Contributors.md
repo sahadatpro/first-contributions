@@ -3504,6 +3504,6 @@
 - [Sunit] (https://github.com/Sunit25)
 - [Priti](https://github.com/Priti-7)
 - [Hem] (https://github.com/bhavsarhem)
-- [Sahadat Hossien] (https://github.com/sahadatpro)
+- [Sahadat Hossien](https://github.com/sahadatpro)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
